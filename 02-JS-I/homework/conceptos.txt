@@ -1,0 +1,8 @@
+Variable: Es una forma de almacenar un dato, para usarlo mas tarde.
+String: Son bloques de texto, siempre se definen entre comillas.
+cualquier texto entre comillas es un string.
+Function: Una función es un conjunto de razonamientos, que arrojan 
+un resultado o un valor.
+Los argumentos son los datos o variables que necesita una función para realizar su proceso.
+Return, es la palabra clave dentro de la funcion, para obtener el resultado de la misma.
+Valores booleanos: Son valores de logica binaria, True o False, 1;0.
