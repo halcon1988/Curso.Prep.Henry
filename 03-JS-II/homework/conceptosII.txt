@@ -1,0 +1,3 @@
+For: Es un bucle que permite hacer tareas repetitivas.
+&& , || , ! : Son operadores logicos que evaluan la veracidad
+de las expresiones en javascript.
