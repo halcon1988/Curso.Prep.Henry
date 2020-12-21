@@ -1,0 +1,7 @@
+Objetos: Un objeto es un contenedor de datos, donde se puede almacenar todo tipo de datos (Strings, numeros, booleanos),
+A diferenia de un arreglo, los objetos se ordenan en pares asociados.
+Propiedades: Es una asociación entre un nombre o clave y un valor.
+Metodos: Es una function, que se encuentra dentro de un objeto.
+Bucles for...in: Es un bucle que sirve para iterar todas las propiedades de un objeto.
+Notación de puntos vs Notación de corchetes: En parte son dos maneras de llamar a las propiedades dentro de un objeto, 
+aunque tienen sus diferencias.
