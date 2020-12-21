@@ -1,0 +1,1 @@
+Array: Los Array o arreglos son listas de elementos, pueden contener: Strings, booleanos, numeros, funciones u otros arrays.
