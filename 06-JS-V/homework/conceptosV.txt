@@ -1,0 +1,2 @@
+prototype :Es una forma de establecer un metodo en un objeto, sin necesidad de escribir el metodo en cada objeto que armamos.
+Constructors (de Clases) : Son plantillas para crear muchos objetos, si necesidad de esribir nuevamente el codigo del objeto.
